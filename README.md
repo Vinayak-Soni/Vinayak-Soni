@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sonivinayak1998" target="blank"><img src="https://img.shields.io/twitter/follow/sonivinayak1998?logo=twitter&style=for-the-badge" alt="sonivinayak1998" /></a> </p>
 
-- 📫 How to reach me **vinayak.soni98@gmail.com**
+- 📫 How to reach me vinayak.soni98@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
