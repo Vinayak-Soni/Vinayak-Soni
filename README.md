@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/sonivinayak1998" target="blank"><img src="https://img.shields.io/twitter/follow/sonivinayak1998?logo=twitter&style=for-the-badge" alt="sonivinayak1998" /></a> </p>
 
-- 🌱 I’m currently learning **AngularJs**
-
-- 👨‍💻 All of my projects are available at [vinayaksoni.netlify.app](vinayaksoni.netlify.app)
-
 - 📫 How to reach me **vinayak.soni98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
