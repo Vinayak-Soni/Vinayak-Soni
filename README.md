@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinayak Soni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate <FullStack/> from India</h3>
 
 <p align="left"> <a href="https://twitter.com/sonivinayak1998" target="blank"><img src="https://img.shields.io/twitter/follow/sonivinayak1998?logo=twitter&style=for-the-badge" alt="sonivinayak1998" /></a> </p>
 
